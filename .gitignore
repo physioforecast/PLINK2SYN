@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# Shell scripts or sensitive config files
+config.sh
+
+# Python virtual environments
+PLINK2SYN-venv/
+
+# Data directories
+/sourcedata/
+/test_data/
+PLINK2SYN_*
+
+# Plink 2 local
+/plink2_mac_arm64_20250915/
+
+
